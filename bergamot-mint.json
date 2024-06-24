@@ -1,0 +1,32 @@
+{
+    "manifest": {
+        "author": "akirarina",
+        "name": "bergamot-mint",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "input_background": -11771531,
+        "background": -13286837,
+        "background_secondary": -13419455,
+        "statusbar": -13419455,
+        "accent": -9728350,
+        "active_channel": -11771531,
+        "mention_highlight": -13419455
+    },
+    "colors": {
+        "primary_dark_200": -3550506,
+        "primary_dark_300": -9728350,
+        "primary_dark_400": -9728350,
+        "primary_dark_700": -14670295,
+        "primary_dark_800": -13419455,
+        "primary_dark_900": -13483703,
+        "primary_dark_330": -3550506,
+        "primary_dark_360": -3550506,
+        "primary_dark_630": -13419455,
+        "primary_dark_660": -13419455
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
