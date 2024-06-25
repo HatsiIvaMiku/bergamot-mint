@@ -2,7 +2,8 @@
     "manifest": {
         "author": "akirarina",
         "name": "bergamot-mint",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/HatsiIvaMiku\/bergamot-mint\/main\/bergamot-mint.json"
     },
     "background": {},
     "fonts": {},
